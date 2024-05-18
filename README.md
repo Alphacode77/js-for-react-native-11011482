@@ -13,3 +13,7 @@ In this task, another function called formatArrayStrings is added. This function
 ## Creating User Profile Function
 
 Create a function called "createUserProfiles". This function takes 2 arrays as arguments (array of names and array of formatted names) and returns an array of objects with 'originalName, modifiedName and id' properties.
+
+## TEST
+
+I have provided code samples with file names "test" to test the various functions provided.
